@@ -22,4 +22,4 @@ python rl_plots.py
 ```
 
 ## Evaluation Result
-<img width="60%" src="project_results/1000000.gif"/>
+<img width="50%" src="project_results/1000000.gif"/>

@@ -20,3 +20,6 @@ Plot results:
 ```bash
 python rl_plots.py
 ```
+
+## Evaluation Result
+<img width="80%" src="project_results/1000000.gif"/>

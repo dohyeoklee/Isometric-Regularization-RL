@@ -1,4 +1,4 @@
-# Isometric-Regularization-RL
+# Manifold-Isometric-Regularization-RL
 Code and paper for research project about Isometric Regularization for high-level actions on Dynamic-Aware Embeddings.
 
 This project aims to implement the minimum distortion embedding ideas of manifold learning to reinforcement learning, based on DynE(https://arxiv.org/abs/1908.09357) and its code(https://github.com/willwhitney/dynamics-aware-embeddings). The project report and results are attached in `./project_results`.

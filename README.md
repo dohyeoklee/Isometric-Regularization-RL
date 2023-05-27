@@ -23,3 +23,6 @@ python rl_plots.py
 
 ## Evaluation Result
 <img width="50%" src="project_results/1000000.gif"/>
+
+## Methodology
+<img width="50%" src="project_results/methodology.png">

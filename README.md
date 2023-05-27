@@ -25,4 +25,4 @@ python rl_plots.py
 <img width="50%" src="project_results/1000000.gif"/>
 
 ## Methodology
-<img width="50%" src="project_results/methodology.png">
+<img width="70%" src="project_results/methodology.png">

@@ -23,6 +23,11 @@ python rl_plots.py
 
 ## Evaluation Result
 <img width="50%" src="project_results/1000000.gif"/>
+<img width="70%" src="project_results/result.png">
 
 ## Methodology
+### Algorithm
 <img width="70%" src="project_results/methodology.png">
+
+### Architecture
+<img width="70%" src="project_results/architecture.png">
